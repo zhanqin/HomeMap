@@ -13,6 +13,16 @@
 		12304A2E201A065C00F493E5 /* HomeIconImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 12304A2D201A065C00F493E5 /* HomeIconImageView.m */; };
 		12304A31201A069700F493E5 /* HomeIconModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 12304A30201A069700F493E5 /* HomeIconModel.m */; };
 		12304A34201A06B000F493E5 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12304A33201A06B000F493E5 /* HomeViewController.m */; };
+		12304A3F201A29EF00F493E5 /* game@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A35201A29EF00F493E5 /* game@2x.png */; };
+		12304A40201A29EF00F493E5 /* user_center@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A36201A29EF00F493E5 /* user_center@2x.png */; };
+		12304A41201A29EF00F493E5 /* notice_board@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A37201A29EF00F493E5 /* notice_board@2x.png */; };
+		12304A42201A29EF00F493E5 /* museum@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A38201A29EF00F493E5 /* museum@2x.png */; };
+		12304A43201A29EF00F493E5 /* props_house@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A39201A29EF00F493E5 /* props_house@2x.png */; };
+		12304A44201A29EF00F493E5 /* pyramid@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A3A201A29EF00F493E5 /* pyramid@2x.png */; };
+		12304A45201A29EF00F493E5 /* old_driver.gif in Resources */ = {isa = PBXBuildFile; fileRef = 12304A3B201A29EF00F493E5 /* old_driver.gif */; };
+		12304A46201A29EF00F493E5 /* Ferris_wheel.gif in Resources */ = {isa = PBXBuildFile; fileRef = 12304A3C201A29EF00F493E5 /* Ferris_wheel.gif */; };
+		12304A47201A29EF00F493E5 /* home_bg_day.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12304A3D201A29EF00F493E5 /* home_bg_day.jpg */; };
+		12304A48201A29EF00F493E5 /* cruise_ship@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A3E201A29EF00F493E5 /* cruise_ship@2x.png */; };
 		2DBCBE112019A596004EA4A3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE102019A596004EA4A3 /* AppDelegate.m */; };
 		2DBCBE142019A596004EA4A3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE132019A596004EA4A3 /* ViewController.m */; };
 		2DBCBE172019A596004EA4A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DBCBE152019A596004EA4A3 /* Main.storyboard */; };
@@ -54,6 +64,16 @@
 		12304A30201A069700F493E5 /* HomeIconModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeIconModel.m; sourceTree = "<group>"; };
 		12304A32201A06B000F493E5 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		12304A33201A06B000F493E5 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		12304A35201A29EF00F493E5 /* game@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "game@2x.png"; sourceTree = "<group>"; };
+		12304A36201A29EF00F493E5 /* user_center@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user_center@2x.png"; sourceTree = "<group>"; };
+		12304A37201A29EF00F493E5 /* notice_board@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "notice_board@2x.png"; sourceTree = "<group>"; };
+		12304A38201A29EF00F493E5 /* museum@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "museum@2x.png"; sourceTree = "<group>"; };
+		12304A39201A29EF00F493E5 /* props_house@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "props_house@2x.png"; sourceTree = "<group>"; };
+		12304A3A201A29EF00F493E5 /* pyramid@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pyramid@2x.png"; sourceTree = "<group>"; };
+		12304A3B201A29EF00F493E5 /* old_driver.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = old_driver.gif; sourceTree = "<group>"; };
+		12304A3C201A29EF00F493E5 /* Ferris_wheel.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Ferris_wheel.gif; sourceTree = "<group>"; };
+		12304A3D201A29EF00F493E5 /* home_bg_day.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = home_bg_day.jpg; sourceTree = "<group>"; };
+		12304A3E201A29EF00F493E5 /* cruise_ship@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cruise_ship@2x.png"; sourceTree = "<group>"; };
 		2DBCBE0C2019A596004EA4A3 /* LJMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LJMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DBCBE0F2019A596004EA4A3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2DBCBE102019A596004EA4A3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +130,16 @@
 				12304A22201A058500F493E5 /* taskWall@2x.png */,
 				12304A23201A058500F493E5 /* discount@2x.png */,
 				12304A24201A058500F493E5 /* school@2x.png */,
+				12304A35201A29EF00F493E5 /* game@2x.png */,
+				12304A36201A29EF00F493E5 /* user_center@2x.png */,
+				12304A37201A29EF00F493E5 /* notice_board@2x.png */,
+				12304A38201A29EF00F493E5 /* museum@2x.png */,
+				12304A39201A29EF00F493E5 /* props_house@2x.png */,
+				12304A3A201A29EF00F493E5 /* pyramid@2x.png */,
+				12304A3B201A29EF00F493E5 /* old_driver.gif */,
+				12304A3C201A29EF00F493E5 /* Ferris_wheel.gif */,
+				12304A3D201A29EF00F493E5 /* home_bg_day.jpg */,
+				12304A3E201A29EF00F493E5 /* cruise_ship@2x.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -315,11 +345,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				12304A27201A058500F493E5 /* school@2x.png in Resources */,
+				12304A44201A29EF00F493E5 /* pyramid@2x.png in Resources */,
+				12304A43201A29EF00F493E5 /* props_house@2x.png in Resources */,
 				2DBCBE562019CB74004EA4A3 /* shopping_cart@2x.png in Resources */,
+				12304A42201A29EF00F493E5 /* museum@2x.png in Resources */,
+				12304A40201A29EF00F493E5 /* user_center@2x.png in Resources */,
 				2DBCBE1C2019A596004EA4A3 /* LaunchScreen.storyboard in Resources */,
+				12304A41201A29EF00F493E5 /* notice_board@2x.png in Resources */,
 				12304A26201A058500F493E5 /* discount@2x.png in Resources */,
+				12304A48201A29EF00F493E5 /* cruise_ship@2x.png in Resources */,
+				12304A46201A29EF00F493E5 /* Ferris_wheel.gif in Resources */,
+				12304A3F201A29EF00F493E5 /* game@2x.png in Resources */,
+				12304A47201A29EF00F493E5 /* home_bg_day.jpg in Resources */,
 				2DBCBE442019AA40004EA4A3 /* home.plist in Resources */,
 				2DBCBE502019BA8A004EA4A3 /* newMessage@2x.png in Resources */,
+				12304A45201A29EF00F493E5 /* old_driver.gif in Resources */,
 				2DBCBE192019A596004EA4A3 /* Assets.xcassets in Resources */,
 				2DBCBE602019E19B004EA4A3 /* home.jpg in Resources */,
 				2DBCBE172019A596004EA4A3 /* Main.storyboard in Resources */,
