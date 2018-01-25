@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		12304A25201A058500F493E5 /* taskWall@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A22201A058500F493E5 /* taskWall@2x.png */; };
+		12304A26201A058500F493E5 /* discount@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A23201A058500F493E5 /* discount@2x.png */; };
+		12304A27201A058500F493E5 /* school@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 12304A24201A058500F493E5 /* school@2x.png */; };
+		12304A2E201A065C00F493E5 /* HomeIconImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 12304A2D201A065C00F493E5 /* HomeIconImageView.m */; };
+		12304A31201A069700F493E5 /* HomeIconModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 12304A30201A069700F493E5 /* HomeIconModel.m */; };
+		12304A34201A06B000F493E5 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12304A33201A06B000F493E5 /* HomeViewController.m */; };
 		2DBCBE112019A596004EA4A3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE102019A596004EA4A3 /* AppDelegate.m */; };
 		2DBCBE142019A596004EA4A3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE132019A596004EA4A3 /* ViewController.m */; };
 		2DBCBE172019A596004EA4A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DBCBE152019A596004EA4A3 /* Main.storyboard */; };
@@ -15,6 +21,10 @@
 		2DBCBE1F2019A596004EA4A3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE1E2019A596004EA4A3 /* main.m */; };
 		2DBCBE292019A596004EA4A3 /* LJMapTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE282019A596004EA4A3 /* LJMapTests.m */; };
 		2DBCBE342019A596004EA4A3 /* LJMapUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DBCBE332019A596004EA4A3 /* LJMapUITests.m */; };
+		2DBCBE442019AA40004EA4A3 /* home.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2DBCBE432019AA40004EA4A3 /* home.plist */; };
+		2DBCBE502019BA8A004EA4A3 /* newMessage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DBCBE4F2019BA8A004EA4A3 /* newMessage@2x.png */; };
+		2DBCBE562019CB74004EA4A3 /* shopping_cart@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2DBCBE552019CB74004EA4A3 /* shopping_cart@2x.png */; };
+		2DBCBE602019E19B004EA4A3 /* home.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2DBCBE5F2019E19B004EA4A3 /* home.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		12304A22201A058500F493E5 /* taskWall@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "taskWall@2x.png"; sourceTree = "<group>"; };
+		12304A23201A058500F493E5 /* discount@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "discount@2x.png"; sourceTree = "<group>"; };
+		12304A24201A058500F493E5 /* school@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "school@2x.png"; sourceTree = "<group>"; };
+		12304A2C201A065C00F493E5 /* HomeIconImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeIconImageView.h; sourceTree = "<group>"; };
+		12304A2D201A065C00F493E5 /* HomeIconImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeIconImageView.m; sourceTree = "<group>"; };
+		12304A2F201A069700F493E5 /* HomeIconModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeIconModel.h; sourceTree = "<group>"; };
+		12304A30201A069700F493E5 /* HomeIconModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeIconModel.m; sourceTree = "<group>"; };
+		12304A32201A06B000F493E5 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		12304A33201A06B000F493E5 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		2DBCBE0C2019A596004EA4A3 /* LJMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LJMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DBCBE0F2019A596004EA4A3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2DBCBE102019A596004EA4A3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +70,10 @@
 		2DBCBE2F2019A596004EA4A3 /* LJMapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LJMapUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DBCBE332019A596004EA4A3 /* LJMapUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LJMapUITests.m; sourceTree = "<group>"; };
 		2DBCBE352019A596004EA4A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2DBCBE432019AA40004EA4A3 /* home.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = home.plist; sourceTree = "<group>"; };
+		2DBCBE4F2019BA8A004EA4A3 /* newMessage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "newMessage@2x.png"; path = "../newMessage@2x.png"; sourceTree = "<group>"; };
+		2DBCBE552019CB74004EA4A3 /* shopping_cart@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "shopping_cart@2x.png"; path = "../shopping_cart@2x.png"; sourceTree = "<group>"; };
+		2DBCBE5F2019E19B004EA4A3 /* home.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = home.jpg; path = ../home.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +101,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		12304A21201A056900F493E5 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				2DBCBE5F2019E19B004EA4A3 /* home.jpg */,
+				2DBCBE552019CB74004EA4A3 /* shopping_cart@2x.png */,
+				2DBCBE4F2019BA8A004EA4A3 /* newMessage@2x.png */,
+				12304A22201A058500F493E5 /* taskWall@2x.png */,
+				12304A23201A058500F493E5 /* discount@2x.png */,
+				12304A24201A058500F493E5 /* school@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		12304A28201A05BF00F493E5 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				12304A2B201A05E300F493E5 /* View */,
+				12304A2A201A05D700F493E5 /* Model */,
+				12304A29201A05CC00F493E5 /* ViewController */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		12304A29201A05CC00F493E5 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				12304A32201A06B000F493E5 /* HomeViewController.h */,
+				12304A33201A06B000F493E5 /* HomeViewController.m */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		12304A2A201A05D700F493E5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				12304A2F201A069700F493E5 /* HomeIconModel.h */,
+				12304A30201A069700F493E5 /* HomeIconModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		12304A2B201A05E300F493E5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				12304A2C201A065C00F493E5 /* HomeIconImageView.h */,
+				12304A2D201A065C00F493E5 /* HomeIconImageView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		2DBCBE032019A596004EA4A3 = {
 			isa = PBXGroup;
 			children = (
@@ -101,10 +174,13 @@
 		2DBCBE0E2019A596004EA4A3 /* LJMap */ = {
 			isa = PBXGroup;
 			children = (
+				2DBCBE432019AA40004EA4A3 /* home.plist */,
 				2DBCBE0F2019A596004EA4A3 /* AppDelegate.h */,
 				2DBCBE102019A596004EA4A3 /* AppDelegate.m */,
 				2DBCBE122019A596004EA4A3 /* ViewController.h */,
 				2DBCBE132019A596004EA4A3 /* ViewController.m */,
+				12304A28201A05BF00F493E5 /* Home */,
+				12304A21201A056900F493E5 /* Images */,
 				2DBCBE152019A596004EA4A3 /* Main.storyboard */,
 				2DBCBE182019A596004EA4A3 /* Assets.xcassets */,
 				2DBCBE1A2019A596004EA4A3 /* LaunchScreen.storyboard */,
@@ -238,9 +314,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12304A27201A058500F493E5 /* school@2x.png in Resources */,
+				2DBCBE562019CB74004EA4A3 /* shopping_cart@2x.png in Resources */,
 				2DBCBE1C2019A596004EA4A3 /* LaunchScreen.storyboard in Resources */,
+				12304A26201A058500F493E5 /* discount@2x.png in Resources */,
+				2DBCBE442019AA40004EA4A3 /* home.plist in Resources */,
+				2DBCBE502019BA8A004EA4A3 /* newMessage@2x.png in Resources */,
 				2DBCBE192019A596004EA4A3 /* Assets.xcassets in Resources */,
+				2DBCBE602019E19B004EA4A3 /* home.jpg in Resources */,
 				2DBCBE172019A596004EA4A3 /* Main.storyboard in Resources */,
+				12304A25201A058500F493E5 /* taskWall@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,7 +350,10 @@
 			files = (
 				2DBCBE142019A596004EA4A3 /* ViewController.m in Sources */,
 				2DBCBE1F2019A596004EA4A3 /* main.m in Sources */,
+				12304A2E201A065C00F493E5 /* HomeIconImageView.m in Sources */,
 				2DBCBE112019A596004EA4A3 /* AppDelegate.m in Sources */,
+				12304A31201A069700F493E5 /* HomeIconModel.m in Sources */,
+				12304A34201A06B000F493E5 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +519,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TJ894KSTNF;
 				INFOPLIST_FILE = LJMap/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = hzlj.LJMap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -447,6 +534,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TJ894KSTNF;
 				INFOPLIST_FILE = LJMap/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = hzlj.LJMap;
 				PRODUCT_NAME = "$(TARGET_NAME)";

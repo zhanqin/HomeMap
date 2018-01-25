@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>locationIndex</key>
+		<string>1</string>
+		<key>icon</key>
+		<string>shopping_cart</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>644</string>
+		<key>centerY</key>
+		<string>259</string>
+	</dict>
+	<dict>
+		<key>locationIndex</key>
+		<string>2</string>
+		<key>icon</key>
+		<string>taskWall</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>580</string>
+		<key>centerY</key>
+		<string>130</string>
+	</dict>
+	<dict>
+		<key>locationIndex</key>
+		<string>3</string>
+		<key>icon</key>
+		<string>discount</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>773</string>
+		<key>centerY</key>
+		<string>228</string>
+	</dict>
+	<dict>
+		<key>locationIndex</key>
+		<string>4</string>
+		<key>icon</key>
+		<string>school</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>490</string>
+		<key>centerY</key>
+		<string>392</string>
+	</dict>
+</array>
+</plist>
