@@ -50,5 +50,41 @@
 		<key>centerY</key>
 		<string>392</string>
 	</dict>
+	<dict>
+		<key>locationIndex</key>
+		<string>5</string>
+		<key>icon</key>
+		<string>game</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>800</string>
+		<key>centerY</key>
+		<string>392</string>
+	</dict>
+	<dict>
+		<key>locationIndex</key>
+		<string>6</string>
+		<key>icon</key>
+		<string>user_center</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>615</string>
+		<key>centerY</key>
+		<string>509</string>
+	</dict>
+	<dict>
+		<key>locationIndex</key>
+		<string>7</string>
+		<key>icon</key>
+		<string>notice_board</string>
+		<key>isHaveMessage</key>
+		<true/>
+		<key>centerX</key>
+		<string>570</string>
+		<key>centerY</key>
+		<string>639</string>
+	</dict>
 </array>
 </plist>
